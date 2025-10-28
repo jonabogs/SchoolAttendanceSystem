@@ -7,6 +7,7 @@ use App\Models\Attendance;
 use App\Models\Student;
 use App\Models\Subject;
 
+
 class AttendanceController extends Controller
 {
     public function home()

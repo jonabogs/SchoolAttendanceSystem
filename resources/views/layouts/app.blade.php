@@ -6,7 +6,7 @@
   <title>School Attendance System</title>
   <link rel="stylesheet" href="{{ asset('bootstrap/css/bootstrap.min.css') }}">
 </head>
-<body>
+<body class="d-flex flex-column min-vh-100">
   @include('partials.navbar')
 
   <div class="container py-4">
